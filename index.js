@@ -1,1 +1,1 @@
-console.log("javascript");
+// 아예 삭제
