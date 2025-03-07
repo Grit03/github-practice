@@ -1,1 +1,2 @@
-console.log("javascript");
+// hello logging 구현
+console.log("hello");
